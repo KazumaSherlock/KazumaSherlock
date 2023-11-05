@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KazumaSherlock
 - 👀 I’m interested in music,romantic novel,and suspense movies
 - 🌱 I’m currently learning data structure
-- 💞️ I’m looking to collaborate on nohing
+- 💞️ I’m looking to collaborate on algorithm
 - 📫 How to reach me 2878357946@qq.com
 
 <!---
